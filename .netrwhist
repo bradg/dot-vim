@@ -1,6 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/macrent/voda/selfservice-fusion-stub/app/views/fusion_stub/my_usage'
-let g:netrw_dirhist_2='/Users/macrent/projects/property_list/db/migrate'
-let g:netrw_dirhist_3='/Users/macrent/projects/property_list/app/views/properties'
-let g:netrw_dirhist_4='/Users/macrent/projects/property_list/db/migrate'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/macrent/Downloads/sk_FastSPI2_FX_REVISEDv04_POST'
+let g:netrw_dirhist_2='/Users/macrent/voda/selfservice-fusion-stub/app/services'
+let g:netrw_dirhist_3='/Users/macrent/voda/selfservice-fusion-stub/app/services/fusion_stub'
+let g:netrw_dirhist_4='/Users/macrent/voda/selfservice-fusion-stub/app/services/fusion_stub/builder'
+let g:netrw_dirhist_5='/Users/macrent/voda/selfservice-fusion-stub/app/services/fusion_stub'
+let g:netrw_dirhist_6='/Users/macrent/voda/selfservice-fusion-stub/app/services/fusion_stub/builder'
